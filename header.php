@@ -56,7 +56,7 @@
 						<?php bloginfo( 'name' ); ?>
 					</a>
 				</<?php echo $heading_tag; ?>>
-				<div class="site-description"><?php bloginfo( 'description' ); ?></div>
+				<div class="site-description"><?php //bloginfo( 'description' ); ?></div>
 			<?php endif; ?>
 		<!-- .site-branding --></div>
 
